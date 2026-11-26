@@ -1,4 +1,5 @@
 # FDA Medical Device Recalls: Excel Analysis
+![Dashboard](dashboard.png)
 
 ## Question
 Which companies have the most serious (Class I) medical device recalls, and are
@@ -37,7 +38,7 @@ serious recalls increasing over time?
   repeats across records of the same event and should not be summed.
 
 ## Files
-- fda_device_recalls.xlsx: cleaned data, cleaning log, pivot tables, dashboard
+- fda_device_recalls.xlsx (28.9 MB): cleaned data, cleaning log, pivot tables, dashboard. GitHub can't preview large Excel files, so download it to open.
 - dashboard.png: screenshot of the dashboard
 
 ## Tools
